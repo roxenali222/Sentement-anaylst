@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
+requests
+python-binance
+sqlalchemy
+ta
+plotly
+jupyter
+ipython
+tensorflow
+keras
+prophet
